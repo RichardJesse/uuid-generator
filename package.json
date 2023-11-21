@@ -1,0 +1,23 @@
+{
+  "name": "uuids-generator",
+  "version": "1.0.0",
+  "description": "Help creaters generate unique id's for their users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardJesse/uuids-generator.git"
+  },
+  "keywords": [
+    "UUIDS",
+    "Generators"
+  ],
+  "author": "Jesse Richard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RichardJesse/uuids-generator/issues"
+  },
+  "homepage": "https://github.com/RichardJesse/uuids-generator#readme"
+}
